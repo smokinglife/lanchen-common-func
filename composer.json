@@ -2,7 +2,7 @@
     "name": "lc_common_func/kong",
     "description": "Lanchen company common method class",
     "type": "library",
-    "license": "mit",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "LcCommonFunc\\Kong\\": "src/Common/Client"
@@ -14,7 +14,6 @@
             "email": "978952042@qq.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
       "php": ">=7.1"
     }
