@@ -9,6 +9,8 @@
 namespace Common\Client;
 
 
+use Exception;
+
 class Client
 {
     /**
